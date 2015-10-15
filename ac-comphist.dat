@@ -1,0 +1,82 @@
+((("GlobalConfigure" .
+   [0 0 1 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("HTTPS" .
+   [1 0 0 0 0])
+  ("HTTP" .
+   [1 0 0 0])
+  ("startswith" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("copy" .
+   [1 0 0 0])
+  ("cut" .
+   [1 0 0])
+  ("next-buffer" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("Get" .
+   [1 0 0])
+  ("trylist" .
+   [0 0 0 0 1 0 0])
+  ("GenerateDictByAlgorithmList" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("from" .
+   [0 0 1 0])
+  ("adf" .
+   [1 0 0])
+  ("keys" .
+   [2 0 0 0])
+  ("okconfigured" .
+   [0 0 0 2 0 0 0 0 0 0 0 0])
+  ("add" .
+   [1 0 0])
+  ("sel" .
+   [6 0 0])
+  ("allowed_domains" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("maybeallowed" .
+   [0 0 0 1 0 0 1 0 1 0 0 0])
+  ("start_urls" .
+   [0 0 0 0 0 2 1 0 0 0])
+  ("maybestarted" .
+   [0 0 0 0 3 0 2 0 0 0 0 0])
+  ("SiteConfigureList" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("onesite" .
+   [4 0 0 0 0 0 0])
+  ("const" .
+   [16 0 0 1 0])
+  ("StartPage" .
+   [2 0 0 0 0 0 0 0 0])
+  ("nowstartpage" .
+   [0 0 0 0 0 0 0 1 0 2 0 0])
+  ("no" .
+   [6 0])
+  ("response" .
+   [1 0 0 0 1 0 0 0])
+  ("url" .
+   [2 0 0])
+  ("notuse" .
+   [1 0 0 0 0 0])
+  ("TestLevel" .
+   [0 0 0 0 1 1 0 0 0])
+  ("CrawledPath" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("isinstance" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("CONFIGFILE_GLOBAL_PATHERROR" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("lower" .
+   [1 0 0 0 0])
+  ("initresult" .
+   [0 0 0 0 0 0 3 0 0 0])
+  ("CONFIGFILE_INIT_OK" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("SiteName" .
+   [1 0 0 0 0 0 0 0])
+  ("split" .
+   [1 0 0 0 0])
+  ("join" .
+   [1 0 0 0])
+  ("append" .
+   [2 0 0 0 0 0])
+  ("oneurl" .
+   [2 0 0 0 0 0])))

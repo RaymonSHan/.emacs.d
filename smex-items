@@ -1,0 +1,30 @@
+
+;; ----- smex-history -----
+(
+ desktop-read
+ desktop-save
+ kill-ring-save
+ next-buffer
+ list-packages
+ kill-buffer
+ imenu
+)
+
+;; ----- smex-data -----
+(
+ (menu-bar-mode . 1)
+ (global-linum-mode . 2)
+ (package-install . 1)
+ (list-packages . 11)
+ (winner-mode . 1)
+ (window-numbering-mode . 2)
+ (winner-undo . 1)
+ (imenu . 3)
+ (kill-buffer . 1)
+ (hs-hide-block . 1)
+ (hs-show-block . 1)
+ (next-buffer . 4)
+ (kill-ring-save . 1)
+ (desktop-save . 2)
+ (desktop-read . 1)
+)
